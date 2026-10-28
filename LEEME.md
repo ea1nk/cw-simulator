@@ -19,7 +19,12 @@ Baja el instalador de tu sistema en la página de **[Releases](https://github.co
 
 De momento los instaladores no están firmados:
 
-- **macOS** — la primera vez, clic derecho sobre la aplicación y **Abrir** (o `xattr -cr "CW Contest Simulator.app"`).
+- **macOS** — Apple no ha notarizado la aplicación, así que el primer arranque se bloquea. Cópiala a *Aplicaciones* y haz una de estas dos cosas:
+  - abre **Ajustes del Sistema › Privacidad y seguridad** y pulsa **Abrir igualmente** (macOS 15), o clic derecho sobre la aplicación → **Abrir** (macOS 13–14); o
+  - ejecuta esto una vez en Terminal, que quita la marca de cuarentena de la descarga (la opción más fiable, y la que hay que usar si macOS dice que la aplicación está *«dañada»*):
+    ```
+    xattr -cr "/Applications/CW Contest Simulator.app"
+    ```
 - **Windows** — SmartScreen puede avisarte: elige **Más información → Ejecutar de todas formas**.
 
 Necesitas macOS 13 o posterior, Windows con WebView2 (incluido en Windows 11) o un escritorio Linux con WebKitGTK. No hace falta conexión para usarlo; solo se usa para los spots reales del DX Cluster, el clima espacial real y las actualizaciones de datos.

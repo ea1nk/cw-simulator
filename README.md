@@ -19,7 +19,12 @@ Get the installer for your system from the **[Releases](https://github.com/ea1nk
 
 The installers are not code-signed yet:
 
-- **macOS** — the first time, right-click the app and choose **Open** (or run `xattr -cr "CW Contest Simulator.app"`).
+- **macOS** — Apple has not notarized the app, so the first launch is blocked. Copy it to *Applications*, then either:
+  - open **System Settings › Privacy & Security** and click **Open Anyway** (macOS 15), or right-click the app → **Open** (macOS 13–14); or
+  - run this once in Terminal, which removes the download quarantine (the most reliable option, and the one to use if macOS says the app is *"damaged"*):
+    ```
+    xattr -cr "/Applications/CW Contest Simulator.app"
+    ```
 - **Windows** — SmartScreen may warn you: choose **More info → Run anyway**.
 
 You need macOS 13 or later, Windows with WebView2 (included in Windows 11), or a Linux desktop with WebKitGTK. No internet connection is needed to use it; it is only used for live DX spots, real space weather and data updates.
