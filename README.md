@@ -48,10 +48,18 @@ Plus a **callsign pile-up trainer** for copying several stations calling at once
 
 ### Operate like in your favourite logger
 - **N1MM Logger+** and **Win-Test** key bindings, **ESM** (Enter sends what fits the field), macros F1–F8 you can edit.
-- Split, XIT, RIT, UP 1, A⇄B, two VFOs per radio and **SO2R** with two radios in separate ears.
+- Split, XIT, RIT, UP 1, A⇄B and two VFOs per radio, and full **SO2R** operation with two radios (see below).
 - A **skimmer** that decodes callsigns and paints the stations calling CQ on the bandmap; switch it off to copy by ear.
 
 ![Live Radio with DX spots](docs/screenshots/live-en.png)
+
+### SO2R: two radios, two ears
+Run **two radios at once** like a real multi-band contest station (Single Operator, Two Radios):
+- Each radio has its **own band, VFO, filter and split**, and its own bandmap. Radio 1 plays in your **left ear**, radio 2 in your **right** (use headphones).
+- Switch radios with the **R1 / R2** strip, the `Pause` key (N1MM style) or `Alt-1` / `Alt-2` (Win-Test style). You transmit on the radio that has the focus while the other one keeps listening, so you can **search on one while you run on the other**.
+- The log, the dupes and the multipliers are shared between both radios.
+
+![SO2R with two radios](docs/screenshots/so2r-en.png)
 
 ### Hear it as it sounds
 - A waterfall and S-meter, bandwidth filters from 2000 down to 150 Hz, and a band map.

@@ -48,10 +48,18 @@ Y un **entrenador de pila de indicativos** para copiar varias estaciones que lla
 
 ### Opera como en tu logger favorito
 - Atajos de **N1MM Logger+** y **Win-Test**, **ESM** (Enter envía lo que toca según el campo) y macros F1–F8 editables.
-- Split, XIT, RIT, UP 1, A⇄B, dos VFO por radio y **SO2R** con dos radios, una en cada oído.
+- Split, XIT, RIT, UP 1, A⇄B y dos VFO por radio, y operación **SO2R** completa con dos radios (más abajo).
 - Un **skimmer** que decodifica indicativos y pinta en el bandmap las estaciones que llaman CQ; apágalo para copiar por oído.
 
 ![Live Radio con spots DX](docs/screenshots/live-es.png)
+
+### SO2R: dos radios, dos oídos
+Opera con **dos radios a la vez**, como en una estación de concurso multibanda (Single Operator, Two Radios):
+- Cada radio tiene **su banda, su VFO, su filtro y su split**, y su propio bandmap. La radio 1 suena por el **oído izquierdo** y la radio 2 por el **derecho** (con auriculares).
+- Cambia de radio con la tira **R1 / R2**, la tecla `Pausa` (estilo N1MM) o `Alt-1` / `Alt-2` (estilo Win-Test). Transmites por la radio que tiene el foco mientras la otra sigue escuchando: así puedes **buscar en una mientras haces RUN en la otra**.
+- El registro, los repetidos y los multiplicadores son comunes a las dos radios.
+
+![SO2R con dos radios](docs/screenshots/so2r-es.png)
 
 ### Escúchalo como suena
 - Waterfall y S-meter, filtros de 2000 a 150 Hz y bandmap.
