@@ -40,7 +40,7 @@ Seven operating modes, each with its own exchange, scoring and multipliers:
 | **CQ WPX** | 5NN + serial number, prefixes as multipliers |
 | **ARRL DX CW** | DX stations send power; W/VE send state or province |
 | **CNCW** | 5NN + province, with the HQ station |
-| **IOTA Contest** | Serial number + IOTA reference, from the full list of ~1,180 island groups |
+| **IOTA Contest** | Serial number + IOTA reference; with the full list of ~1,180 island groups once you download it (see below) |
 | **DXpedition** | You are the rare DX: handle a pile-up that gets impatient |
 | **Live Radio** | General operating with real DX spots, one multiplier per country and band |
 
@@ -89,7 +89,8 @@ Run **two radios at once** like a real multi-band contest station (Single Operat
 - **Practice sessions** with a goal, accuracy, errors, QSOs per hour and a list of what to review; download the log as CSV.
 
 ### Up to date data
-- **cty.dat** (country files), the full **IOTA** list and **MASTER.SCP** are built in, and you can update them from *Preferences* with one click, just like "Update country files" in N1MM.
+- **cty.dat** (country files) and **MASTER.SCP** are built in, and you can update them from *Preferences* with one click, just like "Update country files" in N1MM.
+- The full **IOTA** list is not bundled with the app (it is © RSGB and IOTA Ltd). One click in *Preferences › Network › Data files* downloads it from iota-world.org for your own personal, non-commercial use. Until then, the IOTA Contest runs with a reduced list of islands.
 
 ### Your key, your paddles
 - Use a **K1EL WinKeyer**: its paddles and speed knob drive the simulator.

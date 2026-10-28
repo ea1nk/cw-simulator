@@ -40,7 +40,7 @@ Siete modos de operación, cada uno con su intercambio, puntuación y multiplica
 | **CQ WPX** | 5NN + número de serie; prefijos como multiplicadores |
 | **ARRL DX CW** | Los DX envían potencia; los W/VE, estado o provincia |
 | **CNCW** | 5NN + provincia, con la estación HQ |
-| **IOTA Contest** | Número de serie + referencia IOTA, con la lista completa de ~1.180 grupos de islas |
+| **IOTA Contest** | Número de serie + referencia IOTA; con la lista completa de ~1.180 grupos de islas cuando la descargas (ver más abajo) |
 | **DXpedition** | Tú eres el DX raro: atiende un pileup que se impacienta |
 | **Live Radio** | Operación general con spots DX reales; un multiplicador por país y banda |
 
@@ -89,7 +89,8 @@ Opera con **dos radios a la vez**, como en una estación de concurso multibanda 
 - **Sesiones de práctica** con objetivo, exactitud, errores, QSO por hora y lista de lo que repasar; descarga el registro en CSV.
 
 ### Datos siempre al día
-- **cty.dat** (ficheros de países), la lista **IOTA** completa y **MASTER.SCP** vienen incluidos y se actualizan desde *Preferencias* con un clic, como «Update country files» en N1MM.
+- **cty.dat** (ficheros de países) y **MASTER.SCP** vienen incluidos y se actualizan desde *Preferencias* con un clic, como «Update country files» en N1MM.
+- La lista **IOTA** completa no se incluye con la aplicación (es © RSGB e IOTA Ltd). Un clic en *Preferencias › Red › Ficheros de datos* la descarga desde iota-world.org para tu uso personal y no comercial. Hasta entonces, el IOTA Contest funciona con una lista reducida de islas.
 
 ### Tu llave, tus palas
 - Usa un **WinKeyer de K1EL**: sus palas y su mando de velocidad gobiernan el simulador.
