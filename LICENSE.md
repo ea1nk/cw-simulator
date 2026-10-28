@@ -14,7 +14,7 @@ This is a freeware license for the compiled application only. The source code is
 
 **3. Restrictions.** You may not modify the software, create derivative works, remove or alter any notice, or decompile, disassemble or reverse engineer it, except to the extent that applicable law expressly permits despite this restriction.
 
-**4. Third-party components and data.** The software includes third-party open-source components and data files (such as country files, the Super Check Partial database and the IOTA list), which remain the property of their respective owners and are subject to their own terms. Nothing in this license grants any right over them.
+**4. Third-party components and data.** The software includes third-party open-source components and data files (such as country files and the Super Check Partial database), which remain the property of their respective owners and are subject to their own terms; see [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md). At the user's request the software can also download data published by third parties (such as the IOTA Directory, © RSGB and IOTA Ltd). That data is not included with the software, is not covered by this license, and its use is subject to the terms of its publisher. Nothing in this license grants any right over any of them.
 
 **5. Disclaimer of warranty.** THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
 
@@ -38,7 +38,7 @@ Esta es una licencia de uso gratuito (*freeware*) solo para la aplicación compi
 
 **3. Restricciones.** No puedes modificar el software, crear obras derivadas, quitar o alterar ningún aviso, ni descompilarlo, desensamblarlo o aplicarle ingeniería inversa, salvo en la medida en que la ley aplicable lo permita expresamente pese a esta restricción.
 
-**4. Componentes y datos de terceros.** El software incluye componentes de código abierto y ficheros de datos de terceros (como los ficheros de países, la base Super Check Partial y la lista IOTA), que siguen siendo propiedad de sus respectivos titulares y se rigen por sus propios términos. Esta licencia no concede ningún derecho sobre ellos.
+**4. Componentes y datos de terceros.** El software incluye componentes de código abierto y ficheros de datos de terceros (como los ficheros de países y la base Super Check Partial), que siguen siendo propiedad de sus respectivos titulares y se rigen por sus propios términos; consulta [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md). A petición del usuario, el software puede además descargar datos publicados por terceros (como el directorio IOTA, © RSGB e IOTA Ltd). Esos datos no se incluyen con el software, no están cubiertos por esta licencia y su uso se rige por los términos de quien los publica. Esta licencia no concede ningún derecho sobre ninguno de ellos.
 
 **5. Exención de garantía.** EL SOFTWARE SE OFRECE «TAL CUAL» (*AS IS*), SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN FIN CONCRETO Y NO INFRACCIÓN.
 
