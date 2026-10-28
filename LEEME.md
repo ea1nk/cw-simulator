@@ -110,6 +110,12 @@ Cambia la interfaz entre **castellano** e **inglés** en cualquier momento con e
 2. En **Preferencias › Estación** escribe tu indicativo y tu locator.
 3. Elige un concurso, pulsa **F1** para llamar CQ, escribe lo que oyes y pulsa **Enter**.
 
+## Aviso legal
+
+Este software se ofrece **«tal cual» (*as is*)**, sin garantía de ningún tipo, expresa o implícita, incluidas, entre otras, las garantías de comerciabilidad, de idoneidad para un fin concreto y de no infracción. Úsalo bajo tu propia responsabilidad: en ningún caso el autor será responsable de reclamaciones, daños u otras responsabilidades derivadas del uso del software o de la imposibilidad de usarlo.
+
+Es un simulador de entrenamiento: las estaciones, la propagación y las puntuaciones son simuladas y no sustituyen a las bases oficiales de ningún concurso. Si conectas un WinKeyer o cualquier otro manipulador a un transmisor real, eres el único responsable de lo que se transmita y de cumplir las condiciones de tu licencia.
+
 ¡73 y buenos concursos! — **EA1NK**
 
 ---

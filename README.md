@@ -110,6 +110,12 @@ Switch the interface between **English** and **Spanish** at any moment with the 
 2. In **Preferences › Station** enter your callsign and locator.
 3. Pick a contest, press **F1** to call CQ, type what you hear and press **Enter**.
 
+## Disclaimer
+
+This software is provided **"as is"**, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and non-infringement. Use it at your own risk: in no event shall the author be liable for any claim, damage or other liability arising from the use of, or inability to use, the software.
+
+It is a training simulator: stations, propagation and scores are simulated and do not replace the official rules of any contest. If you connect a WinKeyer or any other keyer to a real transmitter, you are solely responsible for what is transmitted and for complying with your licence conditions.
+
 73 and good contesting! — **EA1NK**
 
 ---
