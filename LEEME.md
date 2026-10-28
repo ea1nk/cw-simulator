@@ -111,6 +111,10 @@ Cambia la interfaz entre **castellano** e **inglés** en cualquier momento con e
 2. En **Preferencias › Estación** escribe tu indicativo y tu locator.
 3. Elige un concurso, pulsa **F1** para llamar CQ, escribe lo que oyes y pulsa **Enter**.
 
+## Licencia
+
+Gratuito para descargar y usar. El código fuente no se publica. Consulta los términos en [LICENSE.md](LICENSE.md) y los componentes de código abierto y datos que incluye en [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
+
 ## Aviso legal
 
 Este software se ofrece **«tal cual» (*as is*)**, sin garantía de ningún tipo, expresa o implícita, incluidas, entre otras, las garantías de comerciabilidad, de idoneidad para un fin concreto y de no infracción. Úsalo bajo tu propia responsabilidad: en ningún caso el autor será responsable de reclamaciones, daños u otras responsabilidades derivadas del uso del software o de la imposibilidad de usarlo.

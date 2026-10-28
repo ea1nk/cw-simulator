@@ -111,6 +111,10 @@ Switch the interface between **English** and **Spanish** at any moment with the 
 2. In **Preferences › Station** enter your callsign and locator.
 3. Pick a contest, press **F1** to call CQ, type what you hear and press **Enter**.
 
+## License
+
+Free to download and use. The source code is not published. See [LICENSE.md](LICENSE.md) for the terms and [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md) for the open-source components and data it includes.
+
 ## Disclaimer
 
 This software is provided **"as is"**, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and non-infringement. Use it at your own risk: in no event shall the author be liable for any claim, damage or other liability arising from the use of, or inability to use, the software.
