@@ -113,11 +113,7 @@ Switch the interface between **English** and **Spanish** at any moment with the 
 
 ## License
 
-Free to download and use. The source code is not published. See [LICENSE.md](LICENSE.md) for the terms and [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md) for the open-source components and data it includes.
-
-## Third-party components
-
-The app includes open-source components and data files from third parties, each under its own license. See [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
+**Freeware**: free to download, use and share. The source code is not published. See [LICENSE.md](LICENSE.md), and [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md) for the open-source components and data it includes.
 
 ## Disclaimer
 

@@ -113,11 +113,7 @@ Cambia la interfaz entre **castellano** e **inglés** en cualquier momento con e
 
 ## Licencia
 
-Gratuito para descargar y usar. El código fuente no se publica. Consulta los términos en [LICENSE.md](LICENSE.md) y los componentes de código abierto y datos que incluye en [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
-
-## Componentes de terceros
-
-La aplicación incluye componentes de código abierto y ficheros de datos de terceros, cada uno con su propia licencia. Consulta [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
+**Freeware**: gratuito para descargar, usar y compartir. El código fuente no se publica. Consulta [LICENSE.md](LICENSE.md) y, para los componentes de código abierto y datos que incluye, [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
 
 ## Aviso legal
 
