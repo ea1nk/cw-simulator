@@ -115,6 +115,10 @@ Cambia la interfaz entre **castellano** e **inglés** en cualquier momento con e
 
 Gratuito para descargar y usar. El código fuente no se publica. Consulta los términos en [LICENSE.md](LICENSE.md) y los componentes de código abierto y datos que incluye en [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
 
+## Componentes de terceros
+
+La aplicación incluye componentes de código abierto y ficheros de datos de terceros, cada uno con su propia licencia. Consulta [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
+
 ## Aviso legal
 
 Este software se ofrece **«tal cual» (*as is*)**, sin garantía de ningún tipo, expresa o implícita, incluidas, entre otras, las garantías de comerciabilidad, de idoneidad para un fin concreto y de no infracción. Úsalo bajo tu propia responsabilidad: en ningún caso el autor será responsable de reclamaciones, daños u otras responsabilidades derivadas del uso del software o de la imposibilidad de usarlo.
