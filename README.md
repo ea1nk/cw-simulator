@@ -61,7 +61,7 @@ Plus a **callsign pile-up trainer** for copying several stations calling at once
 ### Real propagation
 - The bands follow the **real UTC time** and **your locator**: skip zones, D-layer absorption by day, 160 m and 80 m opening at night, grey line on the map.
 - Choose a solar mode (poor, normal, excellent, geomagnetic storm) or use **live NOAA space weather** (SFI, A and K indices and storm alerts).
-- **Real DX spots** from the EA1NK cluster, or connect to several **Telnet** cluster nodes at once (desktop version).
+- **Real CW spots** from the **Reverse Beacon Network** over Telnet, out of the box. Add more cluster nodes and connect to several at once (desktop version).
 
 ### Check partial and multipliers, like the real thing
 - **Check partial** in its own floating window — drag it to a second screen. It uses the real **MASTER.SCP** database: type part of a callsign and see the matches, the ones one letter away, and your dupes struck through. Click one to put it in the log.

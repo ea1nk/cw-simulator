@@ -61,7 +61,7 @@ Y un **entrenador de pila de indicativos** para copiar varias estaciones que lla
 ### Propagación real
 - Las bandas siguen la **hora UTC real** y **tu locator**: zonas de silencio, absorción de la capa D de día, 160 y 80 m que abren de noche y línea gris en el mapa.
 - Elige una actividad solar (pobre, normal, excelente, tormenta geomagnética) o usa el **clima espacial real de la NOAA** (índices SFI, A y K y alertas de tormenta).
-- **Spots DX reales** del clúster de EA1NK, o conéctate a varios nodos **Telnet** a la vez (versión de escritorio).
+- **Spots de CW reales** del **Reverse Beacon Network** por Telnet, nada más abrirlo. Añade más nodos de clúster y conéctate a varios a la vez (versión de escritorio).
 
 ### Check partial y multiplicadores, como en los programas de verdad
 - **Check partial** en su propia ventana flotante, que puedes llevar a una segunda pantalla. Usa la base real **MASTER.SCP**: escribe parte de un indicativo y verás las coincidencias, los que difieren en una letra y tus repetidos tachados. Un clic lo pone en el registro.
