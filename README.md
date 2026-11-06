@@ -1,11 +1,11 @@
-# CW Contest Simulator — CW PRO
+# CW Trainer Pro — CW Contest Simulator
 
 **🇬🇧 English** · [🇪🇸 Castellano](LEEME.md)
 
 **Practise CW contesting and everyday HF operating without a radio, an antenna or a band.**
-CW PRO is a desktop simulator by [EA1NK](https://github.com/ea1nk) that puts you in the chair of a contest station: a waterfall full of stations, pile-ups that call you, real contest exchanges, propagation that follows the sun, and a logger that behaves like the ones you use on the air.
+CW Trainer Pro is a desktop simulator by [EA1NK](https://github.com/ea1nk) that puts you in the chair of a contest station: a waterfall full of stations, pile-ups that call you, real contest exchanges, propagation that follows the sun, and a logger that behaves like the ones you use on the air.
 
-![CW PRO main window](docs/screenshots/main-en.png)
+![CW Trainer Pro main window](docs/screenshots/main-en.png)
 
 ## Download
 
@@ -23,8 +23,9 @@ The installers are not code-signed yet:
   - open **System Settings › Privacy & Security** and click **Open Anyway** (macOS 15), or right-click the app → **Open** (macOS 13–14); or
   - run this once in Terminal, which removes the download quarantine (the most reliable option, and the one to use if macOS says the app is *"damaged"*):
     ```
-    xattr -cr "/Applications/CW Contest Simulator.app"
+    xattr -cr "/Applications/CW Trainer Pro.app"
     ```
+    (Up to version 0.1.5 the app was called *CW PRO* and installed as `CW Contest Simulator.app`.)
 - **Windows** — SmartScreen may warn you: choose **More info → Run anyway**.
 
 You need macOS 13 or later, Windows with WebView2 (included in Windows 11), or a Linux desktop with WebKitGTK. No internet connection is needed to use it; it is only used for live DX spots, real space weather and data updates.

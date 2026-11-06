@@ -1,12 +1,21 @@
 # Third-party notices / Avisos de terceros
 
-CW PRO includes the open-source components listed below, each under its own license. / CW PRO incluye los componentes de código abierto que se listan a continuación, cada uno con su propia licencia.
+CW Trainer Pro includes the open-source components listed below, each under its own license. / CW Trainer Pro incluye los componentes de código abierto que se listan a continuación, cada uno con su propia licencia.
 
 ## Data files / Ficheros de datos
 
 - **cty.dat / cty.csv** — country files from [country-files.com](https://www.country-files.com).
 - **MASTER.SCP** — Super Check Partial database, from [supercheckpartial.com](https://www.supercheckpartial.com).
 - **IOTA list** — not included with the application. If the user chooses to download it from within the application, it is fetched directly from [iota-world.org](https://www.iota-world.org) for the user's own personal, non-commercial use; the IOTA Directory is © Radio Society of Great Britain (RSGB) and Islands On The Air (IOTA) Ltd. / No se incluye con la aplicación: si el usuario decide descargarla desde ella, se baja directamente de iota-world.org para su uso personal y no comercial; el IOTA Directory es © RSGB e IOTA Ltd.
+
+## Linux AppImage: bundled system libraries / Bibliotecas del sistema incluidas
+
+Only the Linux **AppImage** bundles system libraries; the .deb and .rpm packages, Windows (WebView2) and macOS (WKWebView) use the ones already in the operating system. / Solo el **AppImage** de Linux lleva bibliotecas del sistema; los paquetes .deb y .rpm, Windows (WebView2) y macOS (WKWebView) usan las del propio sistema.
+
+- They are the unmodified binary packages of **Ubuntu 22.04 LTS (jammy)**, among them WebKitGTK, GTK 3, GLib, Pango, Cairo, libsoup and GStreamer with its base and good plugins, mostly under the **GNU LGPL** and other open-source licenses. / Son los paquetes binarios sin modificar de **Ubuntu 22.04 LTS (jammy)**, entre ellos WebKitGTK, GTK 3, GLib, Pango, Cairo, libsoup y GStreamer con sus complementos base y good, en su mayoría con licencia **GNU LGPL** y otras licencias de código abierto.
+- The license and copyright notice of each package are inside the AppImage, in `usr/share/doc/<package>/copyright`; the list of packages with their exact versions is in `usr/share/doc/BUNDLED-PACKAGES.txt` and is published as `ubuntu-packages.txt` with each release. / La licencia y el aviso de copyright de cada paquete están dentro del AppImage, en `usr/share/doc/<paquete>/copyright`; la lista de paquetes con sus versiones exactas está en `usr/share/doc/BUNDLED-PACKAGES.txt` y se publica como `ubuntu-packages.txt` con cada versión.
+- **Source code**: the corresponding source of every package and version is available from the Ubuntu archive, at `https://launchpad.net/ubuntu/+source/<source package>` or with `apt-get source <source package>=<version>`. / **Código fuente**: el de cada paquete y versión está en el archivo de Ubuntu, en `https://launchpad.net/ubuntu/+source/<paquete fuente>` o con `apt-get source <paquete fuente>=<versión>`.
+- The libraries are separate shared objects (`usr/lib`) loaded at run time, so they can be replaced with modified versions: extract the AppImage with `--appimage-extract`, swap the library and run `squashfs-root/AppRun`. / Las bibliotecas son objetos compartidos independientes (`usr/lib`) que se cargan al arrancar, así que pueden sustituirse por versiones modificadas: extrae el AppImage con `--appimage-extract`, cambia la biblioteca y ejecuta `squashfs-root/AppRun`.
 
 ## Software components (Rust crates) / Componentes de software
 

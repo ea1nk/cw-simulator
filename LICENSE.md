@@ -2,7 +2,7 @@
 
 ## English
 
-**CW Contest Simulator — CW PRO** is **freeware**: you can download, install, use and share it free of charge.
+**CW Trainer Pro** is **freeware**: you can download, install, use and share it free of charge.
 
 Copyright © 2026 EA1NK. The source code is not published. Please share the installers unmodified, and do not sell or alter the software.
 
@@ -10,7 +10,7 @@ The software is provided **"as is"**, without warranty of any kind (see the [dis
 
 ## Castellano
 
-**Simulador de Concursos CW — CW PRO** es **freeware**: puedes descargarlo, instalarlo, usarlo y compartirlo de forma gratuita.
+**CW Trainer Pro** es **freeware**: puedes descargarlo, instalarlo, usarlo y compartirlo de forma gratuita.
 
 Copyright © 2026 EA1NK. El código fuente no se publica. Comparte los instaladores sin modificar y no vendas ni alteres el software.
 

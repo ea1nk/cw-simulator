@@ -1,11 +1,11 @@
-# Simulador de Concursos CW — CW PRO
+# CW Trainer Pro — Simulador de Concursos CW
 
 [🇬🇧 English](README.md) · **🇪🇸 Castellano**
 
 **Practica concursos de telegrafía y operación diaria en HF sin radio, sin antena y sin banda.**
-CW PRO es un simulador de escritorio de [EA1NK](https://github.com/ea1nk) que te sienta en la silla de una estación de concurso: un waterfall lleno de estaciones, pileups que te llaman, intercambios reales, una propagación que sigue al sol y un log que se comporta como los que usas en el aire.
+CW Trainer Pro es un simulador de escritorio de [EA1NK](https://github.com/ea1nk) que te sienta en la silla de una estación de concurso: un waterfall lleno de estaciones, pileups que te llaman, intercambios reales, una propagación que sigue al sol y un log que se comporta como los que usas en el aire.
 
-![Ventana principal de CW PRO](docs/screenshots/main-es.png)
+![Ventana principal de CW Trainer Pro](docs/screenshots/main-es.png)
 
 ## Descarga
 
@@ -23,8 +23,9 @@ De momento los instaladores no están firmados:
   - abre **Ajustes del Sistema › Privacidad y seguridad** y pulsa **Abrir igualmente** (macOS 15), o clic derecho sobre la aplicación → **Abrir** (macOS 13–14); o
   - ejecuta esto una vez en Terminal, que quita la marca de cuarentena de la descarga (la opción más fiable, y la que hay que usar si macOS dice que la aplicación está *«dañada»*):
     ```
-    xattr -cr "/Applications/CW Contest Simulator.app"
+    xattr -cr "/Applications/CW Trainer Pro.app"
     ```
+    (Hasta la versión 0.1.5 la aplicación se llamaba *CW PRO* y se instalaba como `CW Contest Simulator.app`.)
 - **Windows** — SmartScreen puede avisarte: elige **Más información → Ejecutar de todas formas**.
 
 Necesitas macOS 13 o posterior, Windows con WebView2 (incluido en Windows 11) o un escritorio Linux con WebKitGTK. No hace falta conexión para usarlo; solo se usa para los spots reales del DX Cluster, el clima espacial real y las actualizaciones de datos.
